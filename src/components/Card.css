@@ -37,7 +37,6 @@
   
   .btn {
     background-color: #ef632b;
-    
     border: none;
     outline: none;
     font-size: 1.2rem;
@@ -51,3 +50,12 @@
       text-decoration: none;
       color:#fbf2e3;
   }
+
+  @media screen and (max-width: 500px) {
+    .btn {
+      margin: 3px 1rem;
+     }
+     .card{
+       width: 16rem;
+      }
+   }

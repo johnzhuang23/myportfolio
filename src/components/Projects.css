@@ -3,8 +3,12 @@
     /* height: 750px; */
       min-height: 750px;
       width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
   }
 
 #projects .section-title{
   color: #ef632b;
+	padding:5%;
 }
