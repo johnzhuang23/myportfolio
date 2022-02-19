@@ -1,6 +1,5 @@
-.App {
-  text-align: center;
-}
+/* 
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +34,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.App {
+  text-align: center;
 }
+.section-title {
+	padding-top: 4%;
+	padding-bottom: 2%;
+	font: 18px/24px 'opensans-bold', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	/* color: #fff; */
+	text-align: center;
+  margin: 0
+}
+

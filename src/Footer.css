@@ -1,0 +1,30 @@
+
+
+#footer {
+	background: #f07342;
+  height: 80px;
+  line-height: 5rem;
+	width: 100%;
+	overflow: hidden;
+	font-size: 0.9em;
+	color: #fbf2e3;
+	position: relative;
+	text-align: center;
+}
+
+.footer-link{
+    display: block;
+    /* padding: 3%; */
+    padding-top:0;
+}
+
+.footer-link a{
+    margin: 20px 10px 0 0 ;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding:12px 20px;
+    letter-spacing: 0.1em;
+    display: inline;
+    color:#fbf2e3;
+}

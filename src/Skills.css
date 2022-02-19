@@ -1,0 +1,32 @@
+#skills {
+    background: #fbf2e3;
+    /* height: 150px; */
+      min-height: 150px;
+      width: 100%;
+      overflow: hidden;
+      padding-bottom: 5%;
+  }
+
+  #skills .section-title{
+    color: #ef632b;
+  }
+  
+  .skills-tile {
+      padding: 10px 10px 5px 10px;
+      width: 100px;
+      margin: 5px 0 5px 0;
+    /* border:1px black solid; */
+      /* border-radius: 8px; */
+    font-size: 200%;
+  }
+
+  
+  .skill-icon {
+      font-size: 180%;
+      text-align: center;
+      position: relative;
+      display:flex;
+    justify-content: center;
+    color: #19314D;
+  }
+

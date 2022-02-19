@@ -1,0 +1,52 @@
+#header {
+	position: relative;
+	height: 600px;
+	min-height: 450px;
+	width: 100%;
+	background-size: cover;
+	-webkit-background-size: cover;
+	text-align: center;
+	overflow: hidden;
+	background-color: #19314d;
+  /* color: #eef7f2; */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 150px;
+	padding-bottom: 0;
+}
+
+#header h1{
+    color: #f07342;
+}
+
+.title-styles {
+	font-family: 'Raleway', sans-serif;
+	/* font-size: 250%; */
+    min-height: 100px;
+}
+
+
+.header-link{
+    display: block;
+    padding: 3%;
+    padding-top:0;
+}
+
+.header-link a{
+    margin: 20px 10px 0 0 ;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding:12px 20px;
+    letter-spacing: 0.1em;
+    display: inline;
+    color:#fbf2e3;
+}
+
+.header-icon a {
+    color:#fbf2e3;
+    padding: 2%;
+
+}
