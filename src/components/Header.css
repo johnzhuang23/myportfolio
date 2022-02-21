@@ -33,6 +33,10 @@
     padding: 3%;
     padding-top:0;
 }
+.header-link a:hover{
+font-weight: bold;
+color: #ef632b;
+}
 
 .header-link a{
     margin: 20px 10px 0 0 ;
@@ -48,5 +52,8 @@
 .header-icon a {
     color:#fbf2e3;
     padding: 2%;
+}
 
+.header-icon :hover {
+	color: #ef632b;
 }

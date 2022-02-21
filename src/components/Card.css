@@ -45,10 +45,13 @@
     margin: 0 1rem ;
     width: 7.5rem;
   }
-  
+
   .btn a {
       text-decoration: none;
       color:#fbf2e3;
+  }
+  .btn a:hover{
+    color: #19314d;
   }
 
   @media screen and (max-width: 500px) {

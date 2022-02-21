@@ -64,6 +64,14 @@
     /* border: 1px solid red; */
 }
 
+.about-text a {
+    text-decoration: none;
+}
+
+.about-text a:hover {
+    color: #ef632b;
+}
+
 @media screen and (max-width: 800px) {
    .about-container {
        flex-direction: column;

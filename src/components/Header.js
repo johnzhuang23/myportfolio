@@ -23,7 +23,7 @@ export default function Header() {
             </div>
             <div className="header-icon">
 
-                <a href="public/zz-resume.pdf" title="resume" target="_blank">
+                <a href="/zz-resume.pdf" title="resume" target="_blank">
                     <Icon icon="fa:file-text-o" style={{ fontSize: '45px' }} inline={true} />
                 </a>
 
