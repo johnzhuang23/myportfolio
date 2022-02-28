@@ -27,11 +27,11 @@ export default function Header() {
                     <Icon icon="fa:file-text-o" style={{ fontSize: '45px' }} inline={true} />
                 </a>
 
-                <a href="http://github.com" target="_blank">
+                <a href="https://github.com/johnzhuang23" target="_blank">
                     <Icon icon="jam:github" style={{ fontSize: '50px' }} inline={true} />
                 </a>
 
-                <a href="http://linkedin.com" target="_blank">
+                <a href="https://www.linkedin.com/in/johnzhuang23/" target="_blank">
                     <Icon icon="jam:linkedin-square" style={{ fontSize: '50px' }} inline={true} />
                 </a>
 

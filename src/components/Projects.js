@@ -10,57 +10,44 @@ function Projects() {
             key: uuidv4(),
             content: (
                 <Card
-                    image="https://picsum.photos/seed/picsum/400/300"
-                    title="JavaScript"
-                    desc="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                    nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-                    volutpat."
-                    demolink="http://www.google.com"
-                    codelink="#" />
+                    image="/tic-tac-toe.png"
+                    title="Tic-Tac-Toe"
+                    desc="My first project with vanilla JavaScript, HTML and CSS."
+                    demolink="https://pages.git.generalassemb.ly/johnzz/tic-tac-toe/"
+                    codelink="https://github.com/johnzhuang23/tic-tac-toe" />
             )
         },
         {
             key: uuidv4(),
             content: (
                 <Card
-                    image="https://picsum.photos/1200/900"
-                    title="Ruby"
-                    desc=" Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit minus atque eveniet deleniti eos, facere aspernatur placeat dolorem culpa est nesciunt hic voluptatem ullam cumque odit cupiditate voluptatum! Eum, inventore?"
-                    demolink="#"
-                    codelink="#" />
+                    image="/ruby.png"
+                    title="Moments on Ruby"
+                    desc=" A prototype website inspired by social media platforms like twitter, tumblr, wechat etc. It now has some very basic social features. Ruby, Sinatra, PostgreSQL are used."
+                    demolink="https://moments-ruby.herokuapp.com/"
+                    codelink="https://github.com/johnzhuang23/moments" />
             )
         },
         {
             key: uuidv4(),
             content: (
                 <Card
-                    image="https://picsum.photos/400/300?grayscale"
-                    title="Node.js"
-                    desc="Aut suscipit vel consequuntur odio culpa deleniti earum natus, explicabo qui iste ea officiis, dicta dolore nemo perferendis quasi minima exercitationem? Laboriosam porro deserunt repellat, iusto sequi pariatur ratione incidunt."
-                    demolink="#"
-                    codelink="#" />
+                    image="/ozservo.png"
+                    title="OZ Servo"
+                    desc="Using government public data and Google Map API to mark and sort all servos across Australia. Node.js, Google Map API, PostgreSQL are used."
+                    demolink="https://ozservo-zz.herokuapp.com/"
+                    codelink="https://github.com/johnzhuang23/ozservo" />
             )
         },
         {
             key: uuidv4(),
             content: (
                 <Card
-                    image="https://picsum.photos/400/300?blur"
-                    title="React"
-                    desc="Laborum ea, recusandae autem illum eveniet minima facilis maiores minus at sint temporibus in debitis voluptatibus maxime quasi id perferendis.Vitae dicta quos suscipit aliquam quisquam ad non perferendis dolores."
-                    demolink="#"
-                    codelink="#" />
-            )
-        },
-        {
-            key: uuidv4(),
-            content: (
-                <Card
-                    image="https://picsum.photos/id/1003/400/300"
-                    title="PSQL"
-                    desc=" Deleniti quo quas quibusdam sit doloribus tempore dolorem veritatis atque distinctio sapiente asperiores placeat consequuntur molestias ipsam pariatur consectetur magni ea enim sunt odio, maiores doloremque illum magnam tenetur.Placeat."
-                    demolink="#"
-                    codelink="#" />
+                    image="/desshert.png"
+                    title="Des Shert"
+                    desc="Customise a T-shirt with you own words, paintings and stickers! React and React-Konva are used."
+                    demolink="https://desshert.surge.sh/"
+                    codelink="https://github.com/johnzhuang23/deshert" />
             )
         }
     ];
