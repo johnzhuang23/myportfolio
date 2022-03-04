@@ -30,3 +30,15 @@
     color: #19314D;
   }
 
+
+  @media screen and (max-width: 500px) {
+    .skill-icon {
+      font-size: 120%;
+   }
+   .skills-tile {
+    padding: 10px 3px 3px 10px;
+    width: 80px;
+    margin: 0;
+
+}
+  }

@@ -19,6 +19,7 @@ function Card({ image, title, desc, demolink, codelink }) {
             onMouseLeave={() => setShown(false)}
         >
             <img src={image} />
+
             <h1>{title}</h1>
             <p>{desc}</p>
             <div className="card btnn">

@@ -1,7 +1,7 @@
 #projects {
     background: #19314D;
     /* height: 750px; */
-      min-height: 750px;
+      height: 120vh;
       width: 100%;
       display: flex;
       flex-direction: column;

@@ -13,10 +13,10 @@ export const About = () => {
                 <div className="about-image"><img src="/zz-1.jpg" alt="" />
                 </div>
                 <div className="about-text">
-                    <p> Hello, I am John, my friends call me ZZ. I am a junior Web Developer based in Adelaide. I recently completed the 12-week Softeware Emngineering Immersive Course at General Assembly.</p>
+                    <p> Hello, I am John. My friends call me ZZ (that is from the initials of my name: Zhong Zhuang) I am a junior Web Developer based in Adelaide. I recently completed the 12-week Softeware Emngineering Immersive Course at General Assembly.</p>
                     <p> Last year, I made a decision to change my career path and committed myself into this three-month intensive course. It never be an easy journey, but fortunately, I found my passion in software developement. I enjoyed the peace in coding and the excitment in learning new things every day. Now I am available for full time employment and open to remote jobs. Feel free to reach out and say hello:) <br />
                         <br />
-                        Read my resume <a href="/zz-resume.pdf" target="_blank">here</a>.
+                        Read my resume <a href="https://raw.githubusercontent.com/johnzhuang23/myportfolio/master/public/zz-resume.pdf" >here</a>.
                     </p>
 
                 </div>
@@ -27,3 +27,4 @@ export const About = () => {
 }
 
 export default About
+
